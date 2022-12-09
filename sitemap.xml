@@ -7,13 +7,13 @@
 <!-- www.check-domains.com sitemap generator -->
 
 <url>
-   <loc>http://sohelmalek.ml/</loc>
+   <loc>https://sohelmalek.github.io/sohel-portfolio/</loc>
    <lastmod>2022-11-09T12:02:29+00:00</lastmod>
    <changefreq>always</changefreq>
    <priority>1.0000</priority>
 </url>
 <url>
-   <loc>http://sohelmalek.ml/pdf/sohel-resume.pdf</loc>
+   <loc>https://sohelmalek.github.io/sohel-portfolio/pdf/sohel-resume.pdf</loc>
    <lastmod>2022-11-09T12:02:29+00:00</lastmod>
    <changefreq>always</changefreq>
    <priority>0.8000</priority>
